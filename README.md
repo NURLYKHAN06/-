@@ -4,6 +4,6 @@
 
 demo: https://ibn-salamat.github.io/typical-girl-in-vk
 
-![Иллюстрация к проекту](https://github.com/ibn-salamat/typical-girl-in-vk/raw/master/images/template.jpg)
+![Иллюстрация к проекту](https://github.com/ibn-salamat/typical-girl-in-vk/raw/master/images/template.jpeg)
 
 
